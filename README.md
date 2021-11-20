@@ -1,2 +1,2 @@
 # NLP-Project
-This is a NLP(Natural Language Processing) done in python
+This is a NLP(Natural Language Processing) project done in python
